@@ -1,0 +1,42 @@
+﻿@if (TempData["Stu_Create"] != null){
+<div class="alert alert-success">
+	<p>@TempData["Stu_Create"]</p>
+</div>
+}
+
+@if (TempData["Stu_Update"] != null)
+{
+	<div class="alert alert-success">
+		<p class="text-black">@TempData["Stu_Update"]</p>
+	</div>
+}
+
+@if (TempData["Stu_Delete"] != null)
+{
+	<div class="alert alert-success">
+		<p class="text-black">@TempData["Stu_Delete"]</p>
+	</div>
+}
+
+@if (ViewData["Index_ERR"] != null)
+{
+	<div class="alert alert-error">
+		<p class="text-black">@ViewData["Index_ERR"]</p>
+	</div>
+}
+
+@if (ViewData["Upadte_ERR"] != null)
+{
+	<div class="alert alert-error">
+		<p class="text-black">@ViewData["Update_ERR"]</p>
+	</div>
+}
+
+
+@if (TempData["Delete_ERR"] != null)
+{
+	<div class="alert alert-error">
+		<p class="text-black">@TempData["Delete_ERR"]</p>
+	</div>
+}
+

@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C889B35-BF51-408A-8AC0-A465081D23BE}|StudentsCRUD\\StudentsCRUD.csproj|c:\\drive-d\\dot net - projects\\mvc\\studentscrud\\studentscrud\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C889B35-BF51-408A-8AC0-A465081D23BE}|StudentsCRUD\\StudentsCRUD.csproj|solutionrelative:studentscrud\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C889B35-BF51-408A-8AC0-A465081D23BE}|StudentsCRUD\\StudentsCRUD.csproj|c:\\drive-d\\dot net - projects\\mvc\\studentscrud\\studentscrud\\views\\shared\\_message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C889B35-BF51-408A-8AC0-A465081D23BE}|StudentsCRUD\\StudentsCRUD.csproj|solutionrelative:studentscrud\\views\\shared\\_message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C889B35-BF51-408A-8AC0-A465081D23BE}|StudentsCRUD\\StudentsCRUD.csproj|c:\\drive-d\\dot net - projects\\mvc\\studentscrud\\studentscrud\\views\\students\\updatestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C889B35-BF51-408A-8AC0-A465081D23BE}|StudentsCRUD\\StudentsCRUD.csproj|solutionrelative:studentscrud\\views\\students\\updatestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C889B35-BF51-408A-8AC0-A465081D23BE}|StudentsCRUD\\StudentsCRUD.csproj|c:\\drive-d\\dot net - projects\\mvc\\studentscrud\\studentscrud\\views\\students\\createstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C889B35-BF51-408A-8AC0-A465081D23BE}|StudentsCRUD\\StudentsCRUD.csproj|solutionrelative:studentscrud\\views\\students\\createstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C889B35-BF51-408A-8AC0-A465081D23BE}|StudentsCRUD\\StudentsCRUD.csproj|c:\\drive-d\\dot net - projects\\mvc\\studentscrud\\studentscrud\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C889B35-BF51-408A-8AC0-A465081D23BE}|StudentsCRUD\\StudentsCRUD.csproj|solutionrelative:studentscrud\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C889B35-BF51-408A-8AC0-A465081D23BE}|StudentsCRUD\\StudentsCRUD.csproj|c:\\drive-d\\dot net - projects\\mvc\\studentscrud\\studentscrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C889B35-BF51-408A-8AC0-A465081D23BE}|StudentsCRUD\\StudentsCRUD.csproj|solutionrelative:studentscrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C889B35-BF51-408A-8AC0-A465081D23BE}|StudentsCRUD\\StudentsCRUD.csproj|c:\\drive-d\\dot net - projects\\mvc\\studentscrud\\studentscrud\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C889B35-BF51-408A-8AC0-A465081D23BE}|StudentsCRUD\\StudentsCRUD.csproj|solutionrelative:studentscrud\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C889B35-BF51-408A-8AC0-A465081D23BE}|StudentsCRUD\\StudentsCRUD.csproj|c:\\drive-d\\dot net - projects\\mvc\\studentscrud\\studentscrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C889B35-BF51-408A-8AC0-A465081D23BE}|StudentsCRUD\\StudentsCRUD.csproj|solutionrelative:studentscrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C889B35-BF51-408A-8AC0-A465081D23BE}|StudentsCRUD\\StudentsCRUD.csproj|c:\\drive-d\\dot net - projects\\mvc\\studentscrud\\studentscrud\\data\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C889B35-BF51-408A-8AC0-A465081D23BE}|StudentsCRUD\\StudentsCRUD.csproj|solutionrelative:studentscrud\\data\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C889B35-BF51-408A-8AC0-A465081D23BE}|StudentsCRUD\\StudentsCRUD.csproj|c:\\drive-d\\dot net - projects\\mvc\\studentscrud\\studentscrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C889B35-BF51-408A-8AC0-A465081D23BE}|StudentsCRUD\\StudentsCRUD.csproj|solutionrelative:studentscrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Message.cshtml",
+              "DocumentMoniker": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\StudentsCRUD\\Views\\Shared\\_Message.cshtml",
+              "RelativeDocumentMoniker": "StudentsCRUD\\Views\\Shared\\_Message.cshtml",
+              "ToolTip": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\StudentsCRUD\\Views\\Shared\\_Message.cshtml",
+              "RelativeToolTip": "StudentsCRUD\\Views\\Shared\\_Message.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T14:18:24.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateStudent.cshtml",
+              "DocumentMoniker": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\StudentsCRUD\\Views\\Students\\UpdateStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentsCRUD\\Views\\Students\\UpdateStudent.cshtml",
+              "ToolTip": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\StudentsCRUD\\Views\\Students\\UpdateStudent.cshtml",
+              "RelativeToolTip": "StudentsCRUD\\Views\\Students\\UpdateStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T14:06:28.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateStudent.cshtml",
+              "DocumentMoniker": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\StudentsCRUD\\Views\\Students\\CreateStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentsCRUD\\Views\\Students\\CreateStudent.cshtml",
+              "ToolTip": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\StudentsCRUD\\Views\\Students\\CreateStudent.cshtml",
+              "RelativeToolTip": "StudentsCRUD\\Views\\Students\\CreateStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T13:51:53.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\StudentsCRUD\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentsCRUD\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\StudentsCRUD\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "StudentsCRUD\\Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T13:44:35.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\StudentsCRUD\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentsCRUD\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\StudentsCRUD\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentsCRUD\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:33:19.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\StudentsCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentsCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\StudentsCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentsCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T14:47:30.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\StudentsCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "StudentsCRUD\\Program.cs",
+              "ToolTip": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\StudentsCRUD\\Program.cs",
+              "RelativeToolTip": "StudentsCRUD\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:26:32.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\StudentsCRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentsCRUD\\appsettings.json",
+              "ToolTip": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\StudentsCRUD\\appsettings.json",
+              "RelativeToolTip": "StudentsCRUD\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T13:24:31.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\StudentsCRUD\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "StudentsCRUD\\Models\\Students.cs",
+              "ToolTip": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\StudentsCRUD\\Models\\Students.cs",
+              "RelativeToolTip": "StudentsCRUD\\Models\\Students.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:21:24.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\StudentsCRUD\\Data\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentsCRUD\\Data\\StudentContext.cs",
+              "ToolTip": "C:\\Drive-D\\Dot Net - projects\\MVC\\StudentsCRUD\\StudentsCRUD\\Data\\StudentContext.cs",
+              "RelativeToolTip": "StudentsCRUD\\Data\\StudentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:14:30.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
