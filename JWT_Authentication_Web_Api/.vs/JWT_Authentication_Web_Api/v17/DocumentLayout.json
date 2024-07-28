@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98C7EB3E-96B4-4AA2-80DE-E378E4EB9B17}|JWT_Authentication_Web_Api.csproj|D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C7EB3E-96B4-4AA2-80DE-E378E4EB9B17}|JWT_Authentication_Web_Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C7EB3E-96B4-4AA2-80DE-E378E4EB9B17}|JWT_Authentication_Web_Api.csproj|d:\\projects\\samples\\jwt_authentication_web_api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C7EB3E-96B4-4AA2-80DE-E378E4EB9B17}|JWT_Authentication_Web_Api.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C7EB3E-96B4-4AA2-80DE-E378E4EB9B17}|JWT_Authentication_Web_Api.csproj|D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98C7EB3E-96B4-4AA2-80DE-E378E4EB9B17}|JWT_Authentication_Web_Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C7EB3E-96B4-4AA2-80DE-E378E4EB9B17}|JWT_Authentication_Web_Api.csproj|D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C7EB3E-96B4-4AA2-80DE-E378E4EB9B17}|JWT_Authentication_Web_Api.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C7EB3E-96B4-4AA2-80DE-E378E4EB9B17}|JWT_Authentication_Web_Api.csproj|D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C7EB3E-96B4-4AA2-80DE-E378E4EB9B17}|JWT_Authentication_Web_Api.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C7EB3E-96B4-4AA2-80DE-E378E4EB9B17}|JWT_Authentication_Web_Api.csproj|D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C7EB3E-96B4-4AA2-80DE-E378E4EB9B17}|JWT_Authentication_Web_Api.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C7EB3E-96B4-4AA2-80DE-E378E4EB9B17}|JWT_Authentication_Web_Api.csproj|D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C7EB3E-96B4-4AA2-80DE-E378E4EB9B17}|JWT_Authentication_Web_Api.csproj|solutionrelative:models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C7EB3E-96B4-4AA2-80DE-E378E4EB9B17}|JWT_Authentication_Web_Api.csproj|D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C7EB3E-96B4-4AA2-80DE-E378E4EB9B17}|JWT_Authentication_Web_Api.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C7EB3E-96B4-4AA2-80DE-E378E4EB9B17}|JWT_Authentication_Web_Api.csproj|D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\Migrations\\20240715095414_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C7EB3E-96B4-4AA2-80DE-E378E4EB9B17}|JWT_Authentication_Web_Api.csproj|solutionrelative:Migrations\\20240715095414_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAxwBUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:12:10.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240715095414_initial.cs",
+              "DocumentMoniker": "D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\Migrations\\20240715095414_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240715095414_initial.cs",
+              "ToolTip": "D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\Migrations\\20240715095414_initial.cs",
+              "RelativeToolTip": "Migrations\\20240715095414_initial.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:54:14.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:50:48.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:45:02.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:43:03.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Models\\Login.cs",
+              "ToolTip": "D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\Models\\Login.cs",
+              "RelativeToolTip": "Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:34:04.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T08:13:19.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:13:05.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "Models\\Response.cs",
+              "ToolTip": "D:\\Projects\\Samples\\JWT_Authentication_Web_Api\\Models\\Response.cs",
+              "RelativeToolTip": "Models\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:20:22.846Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
